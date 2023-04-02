@@ -8,8 +8,8 @@ const BdaClient = tencentcloud.bda.v20200324.Client;
 const clientConfig = {
   credential: {
     // 这个是腾讯云的
-    secretId: "AKIDkK3ZfU4MN7fwwe5F8k5AyVmoZ3GCrFMD",  // 更换成自己的 id
-    secretKey: "dz4tSklW0D9nBI8hz1mGUR8YAWcRzGMB",     // 更换成自己的 key
+    secretId: "",  // 更换成自己的 id
+    secretKey: "",     // 更换成自己的 key
   },
   region: "ap-beijing",
   profile: {
